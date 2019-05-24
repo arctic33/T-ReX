@@ -1,5 +1,7 @@
 # TReX
 
+Use `pip install -r requirements.txt` to install all the dependencies.
+
 Go to the pyemd folder and use `pip install -e .` for installing pyemd.
 
 Run epsilon-greedy exploration using `python q_learning.py`
